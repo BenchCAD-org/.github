@@ -16,7 +16,8 @@ mechanical parts.
 |---|---|
 | **BenchCAD (1.0)** — 17,900 parts / 106 families / 4 tasks; scored by voxel IoU, no LLM judge | ✅ Released · frozen · cited in frontier-lab system cards |
 | [benchcad.com](https://benchcad.com) · [HF dataset](https://huggingface.co/datasets/BenchCAD/BenchCAD) · leaderboard | ✅ Live |
-| **BenchCAD-Agent** — agentic evaluation: tool use, execution feedback, multi-turn refinement; ships with dataset v2.0 (community-grounded parametric designs) | 🚧 In preparation |
+| **BenchCAD 2.0** — agentic evaluation (tool use, execution feedback, multi-turn refinement) + dataset v2.0: community-grounded parametric designs | 🚧 In preparation |
+| **BenchCAD-Agent** — reference agent & harness for BenchCAD | 📋 Planned |
 | **BenchCAD-Verified** — expert-audited official subset | 📋 Planned ([reserved](https://github.com/BenchCAD-org/benchcad-verified)) |
 | **BenchCAD-Pro** — harder, contamination-resistant tier with private held-out evaluation | 📋 Planned ([reserved](https://github.com/BenchCAD-org/benchcad-pro)) |
 
