@@ -18,7 +18,7 @@ mechanical parts.
 | [benchcad.com](https://benchcad.com) · [HF dataset](https://huggingface.co/datasets/BenchCAD/BenchCAD) · leaderboard | ✅ Live |
 | **BenchCAD 2.0** — agentic evaluation (tool use, execution feedback, multi-turn refinement) + dataset v2.0: community-grounded parametric designs | 🚧 In preparation |
 | **BenchCAD-Agent** — reference agent & harness for BenchCAD | 📋 Planned |
-| **BenchCAD-Verified** — expert-audited official subset | 📋 Planned ([reserved](https://github.com/BenchCAD-org/benchcad-verified)) |
+| **BenchCAD-Assembly** — assembly-level CAD: multi-part assemblies, mating constraints | 📋 Planned ([reserved](https://github.com/BenchCAD-org/benchcad-assembly)) |
 | **BenchCAD-Pro** — harder, contamination-resistant tier with private held-out evaluation | 📋 Planned ([reserved](https://github.com/BenchCAD-org/benchcad-pro)) |
 
 ## Naming policy
